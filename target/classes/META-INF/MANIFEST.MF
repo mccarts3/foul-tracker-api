@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: foul-tracker-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mccar
+Implementation-Vendor-Id: com.ctech.ft
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/foul-tracker-api/
+Created-By: Maven Integration for Eclipse
+
